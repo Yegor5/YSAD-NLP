@@ -6,6 +6,7 @@ Seminars:
 * seminar2: seminar on salary prediction using the job descriptions
 * seminar3: seminar on language models
 * seminar_homework4: seminar on seq2seq models
+* seminar5: seminar on pre-trained transformers
 
 Homeworks:
 
